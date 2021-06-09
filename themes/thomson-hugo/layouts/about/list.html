@@ -11,20 +11,20 @@
           <img src="{{ .image | relURL }}" alt="{{ .name }}" class="img-fluid">
         </div>
       </div>
-      <div class="col-lg-7">
+      <div class="col-lg-12">
         <h2>{{ .name }}</h2>
-        <p class="lead mb-4">{{ .bio | markdownify }}</p>
-        <p class="mb-4">{{ .content | markdownify }}</p>
+<!--        <p class="lead mb-4">{{ .bio | markdownify }}</p>-->
+<!--        <p class="mb-4">{{ .content | markdownify }}</p>-->
 <!--        <img src="{{ .signature | relURL }}" alt="{{ .name }}" class="img-fluid">-->
       </div>
 
-      <div class="col-lg-5">
-        <ul class="list-unstyled mt-3 mb-5 about-list">
-          {{ range .favourite_topic }}
-          <li>- {{ . }}</li>
-          {{ end }}
-        </ul>
-      </div>
+<!--      <div class="col-lg-5">-->
+<!--        <ul class="list-unstyled mt-3 mb-5 about-list">-->
+<!--          {{ range .favourite_topic }}-->
+<!--          <li>- {{ . }}</li>-->
+<!--          {{ end }}-->
+<!--        </ul>-->
+<!--      </div>-->
     </div>
   </div>
 </section>
@@ -35,7 +35,7 @@
 <!-- About start -->
 {{ if .Site.Data.about.experience.enable }}
 {{ with .Site.Data.about.experience }}
-<section class="section about border-top border-bottom">
+<section class="section about border-bottom">
   <div class="container">
     <div class="row">
       <div class="col-lg-4 mb-5">

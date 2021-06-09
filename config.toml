@@ -1,10 +1,13 @@
 # default configuration
+
+enableInlineShortcodes = true
+
 baseURL = "http://demo.themefisher.com/thomson-hugo/"
 languageCode = "en-us"
 theme = "thomson-hugo"
-title = "Thomson-Minimal Hugo Portfolio Temaplate"
+title = "Marjorie Roswell"
 summaryLength = "10"
-paginate = 4
+paginate = 20
 
 # css plugins
 [[params.plugins.css]]
@@ -65,19 +68,19 @@ url = "contact"
 weight = 5
 
 [[menu.main]]
-name = "Dropdown"
+name = "Words"
 url = "#"
 weight = 6
 
   [[menu.main]]
-  parent = "Dropdown"
-  name = "Child 1"
+  parent = "Words"
+  name = "Light Verse"
   url = "#"
   weight = 1
 
   [[menu.main]]
-  parent = "Dropdown"
-  name = "Child 2"
+  parent = "Words"
+  name = "Web Page Potpourri"
   url = "#"
   weight = 2
 
