@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: data/about.yml
+  label: About - YML
+  match: "**/*"
+- type: document
   path: data/homepage.yml
   label: Home
-  match: "**/*"
 - type: directory
   path: content/about
   label: About
