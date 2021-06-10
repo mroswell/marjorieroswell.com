@@ -6,7 +6,7 @@ year: "2019"
 description: "New Jersey League of Conservation Voters Scorecard"
 category: "Scorecard Map"
 project_url: "http://scorecard.njlcv.org"
-type: "portfolio"
+type: "project"
 draft: false
 ---
 

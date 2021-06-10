@@ -6,7 +6,7 @@ year: "2019"
 description: "Healthy Campaign Curriculum (PDF)"
 category: "Nutrition Education"
 project_url: "https://healthycampaign.org/toolkit/"
-type: "portfolio"
+type: "project"
 draft: false
 ---
 

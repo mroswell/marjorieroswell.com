@@ -6,7 +6,7 @@ year: "2019"
 description: "Healthy Campaign"
 category: "Nutrition Education"
 project_url: "https://healthycampaign.org"
-type: "portfolio"
+type: "project"
 draft: false
 ---
 

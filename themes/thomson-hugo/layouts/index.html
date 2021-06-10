@@ -24,9 +24,9 @@
 {{ end }}
 <!-- Banner End -->
 
-<!-- Portfolio start -->
-{{ if .Site.Data.homepage.portfolio.enable }}
-<section class="portfolio">
+<!-- project start -->
+{{ if .Site.Data.homepage.project.enable }}
+<section class="project">
   <div class="container">
     <div class="row mb-5">
       <div class="col-10">
@@ -35,7 +35,7 @@
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />All Projects
           </label>
           {{ $categories := slice }}
-          {{ range (where .Site.RegularPages "Type" "portfolio") }}
+          {{ range (where .Site.RegularPages "Type" "project") }}
           {{ $categories = $categories | append .Params.Category }}
           {{ end }}
           {{ range ( $categories | uniq ) }}
@@ -47,14 +47,14 @@
       </div>
     </div>
 
-    <div class="row shuffle-wrapper portfolio-gallery">
-      {{ range (where .Site.RegularPages "Type" "portfolio")}}
+    <div class="row shuffle-wrapper project-gallery">
+      {{ range (where .Site.RegularPages "Type" "project")}}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
         <div class="position-relative inner-box">
           <div class="image position-relative">
-            <img src="{{ .Params.Image | absURL }}" alt="portfolio-image" class="img-fluid w-100 d-block">
+            <img src="{{ .Params.Image | absURL }}" alt="project-image" class="img-fluid w-100 d-block">
             <div class="overlay-box">
-              <a class="portfolio-image popup-gallery" href="{{ .Params.Image | absURL }}">
+              <a class="project-image popup-gallery" href="{{ .Params.Image | absURL }}">
                 <i class="ti-plus"></i>
               </a>
               <div class="overlay-inner">
@@ -72,7 +72,7 @@
   </div>
 </section>
 {{ end }}
-<!-- Portfolio End -->
+<!-- project End -->
 
 <!-- Service start -->
 {{ if .Site.Data.homepage.service.enable }}

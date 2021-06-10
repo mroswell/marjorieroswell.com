@@ -6,7 +6,7 @@ year: "2020"
 description: "ConservationPA Legislative Scorecard Map"
 category: "Scorecard Map"
 project_url: "https://scorecard.conservationpa.org"
-type: "portfolio"
+type: "project"
 draft: false
 ---
 

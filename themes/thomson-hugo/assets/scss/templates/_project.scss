@@ -1,15 +1,15 @@
 
 
-// Portfolio
-// 
-.portfolio{
+// project
+//
+.project{
   padding-bottom: 100px;
 
   .btn:focus,.btn:hover,.btn.focus.active{
     box-shadow: none!important;
 	  outline: 0!important;
   }
- 
+
   .btn-group .btn{
     border-radius: 0px!important;
     padding-left: 0px;
@@ -28,7 +28,7 @@
   .btn.active{
     color: $primary-color;
   }
-  
+
 }
 
  .inner-box{
@@ -76,7 +76,7 @@
   width:100%;
   height:100%;
    display:block;
-    opacity:0; 
+    opacity:0;
     -ms-transition: all 0.4s;
     -moz-transition: all 0.4s;
     -webkit-transition: all 0.4s;
@@ -126,7 +126,7 @@
 
 
  .inner-box .image .overlay-box .overlay-inner .overlay-content{
-   
+
     i{
       font-size: 28px;
     }
@@ -178,7 +178,7 @@
 
 
 
-.portfolio-image{
+.project-image{
     width: 60px;
     height: 60px;
     display: inline-block;
@@ -193,8 +193,8 @@
     left:50%;
 }
 
-// POrtfolio single
-// 
+// project single
+//
 
 
 .info{

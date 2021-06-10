@@ -1,12 +1,12 @@
 ---
-title: "Portfolio"
+title: "project"
 image: "images/music-photos/m-3.jpg"
 client: "Thomson"
 year: "2019"
 description: "This is meta description."
 category: "design"
 project_url: "#"
-type: "portfolio"
+type: "project"
 draft: false
 ---
 

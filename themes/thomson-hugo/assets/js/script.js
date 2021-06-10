@@ -32,7 +32,7 @@ $(window).on('load', function () {
   }
 
   // magnific popup
-  $('.portfolio-gallery').each(function () {
+  $('.project-gallery').each(function () {
     $(this).find('.popup-gallery').magnificPopup({
       type: 'image',
       gallery: {

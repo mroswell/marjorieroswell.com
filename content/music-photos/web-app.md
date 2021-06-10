@@ -1,12 +1,12 @@
 ---
 title: "Web app"
-image: "images/portfolio/1.jpg"
+image: "images/project/1.jpg"
 client: "Thomson"
 year: "2019"
 description: "This is meta description."
 category: "development"
 project_url: "https://examplesite.org"
-type: "portfolio"
+type: "project"
 draft: false
 ---
 

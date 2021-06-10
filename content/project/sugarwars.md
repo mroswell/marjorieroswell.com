@@ -6,7 +6,7 @@ year: "2019"
 description: "Sugar Wars | 55 Health Impacts of Sugar"
 category: "Nutrition Education"
 project_url: "https://SugarWars.org"
-type: "portfolio"
+type: "project"
 draft: false
 ---
 

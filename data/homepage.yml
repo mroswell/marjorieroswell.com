@@ -8,8 +8,8 @@ banner:
     - "Professional Content."
   content : "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain <br>was born and I will give you a complete account of the system"
 
-###################### Portfolio ######################
-portfolio:
+###################### project ######################
+project:
   enable : true
 
 ###################### Service ########################
