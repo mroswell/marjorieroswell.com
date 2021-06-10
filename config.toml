@@ -1,7 +1,5 @@
 # default configuration
 
-enableInlineShortcodes = true
-
 baseURL = "http://demo.themefisher.com/thomson-hugo/"
 languageCode = "en-us"
 theme = "thomson-hugo"
