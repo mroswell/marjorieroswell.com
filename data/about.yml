@@ -12,6 +12,17 @@ author:
     - "Light Verse"
     - "Beauty"
 
+#################### Education #######################
+education:
+  enable : true
+  title : "Education."
+  education_item:
+    - name : "B.A., Botany, Connecticut College, New London, CT, 1984"
+      duration: "1984"
+      content : "Betty Flanders Thomson Prize for Excellence in Botany.
+      <br />Distinction in the Major of Botany.
+      <br />Cum&nbsp;Laude, and Dean’s List each semester"
+
 #################### Experience #######################
 experience:
   enable : true

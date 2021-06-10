@@ -51,38 +51,31 @@ url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
-url = "blog"
+name = "Words"
+url = "#"
 weight = 3
 
 [[menu.main]]
-name = "Portfolio"
-url = "portfolio"
+parent = "Words"
+name = "Light Verse"
+url = "blog"
+weight = 1
+
+[[menu.main]]
+parent = "Words"
+name = "Good Nutrition is Antiviral"
+url = "https://medium.com/@mroswell/a-science-based-message-for-the-people-good-nutrition-is-antiviral-14a4528c7216"
+weight = 2
+
+[[menu.main]]
+name = "Music"
+url = "music"
 weight = 4
 
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "Projects"
+url = "portfolio"
 weight = 5
-
-[[menu.main]]
-name = "Words"
-url = "#"
-weight = 6
-
-  [[menu.main]]
-  parent = "Words"
-  name = "Light Verse"
-  url = "#"
-  weight = 1
-
-  [[menu.main]]
-  parent = "Words"
-  name = "Web Page Potpourri"
-  url = "#"
-  weight = 2
-
-
 
 # default parameters
 [params]
@@ -90,7 +83,7 @@ home = "Home"
 logo = "images/logo.png"
 # contact info
 mobile = "+880 2544 658 256"
-email = "steve.fruits@email.com"
+email = "mroswell@gmail.com"
 address = "125/A, CA Commercial Area, California, USA"
 # meta description
 author = "themefisher"

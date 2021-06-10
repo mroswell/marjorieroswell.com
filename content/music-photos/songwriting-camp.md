@@ -1,12 +1,12 @@
 ---
 title: "Modern web"
-image: "images/portfolio/bottle.jpg"
+image: "images/music/songwriting-camp.jpg"
 client: "Thomson"
 year: "2019"
 description: "This is meta description."
 category: "development"
 project_url: "https://examplesite.org"
-type: "portfolio"
+type: "music-photos"
 draft: false
 ---
 

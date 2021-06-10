@@ -33,9 +33,39 @@
 <!-- Banner End -->
 
 <!-- About start -->
+{{ if .Site.Data.about.education.enable }}
+{{ with .Site.Data.about.education }}
+<section class="section-sm about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 mb-5">
+        <h3 class="mb-2">{{ .title | markdownify }}</h3>
+      </div>
+
+      <div class="col-lg-8">
+        <div class="row">
+          {{ range .education_item }}
+          <div class="col-lg-6">
+            <div class="about-info mb-5">
+              <span>{{ .duration }}</span>
+              <h4 class="mb-3 mt-1">{{ .name }}</h4>
+              <p>{{ .content | markdownify }}</p>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- About End -->
+
+<!-- About start -->
 {{ if .Site.Data.about.experience.enable }}
 {{ with .Site.Data.about.experience }}
-<section class="section about border-bottom">
+<section class="section-sm about border-bottom">
   <div class="container">
     <div class="row">
       <div class="col-lg-4 mb-5">
@@ -92,7 +122,7 @@
 {{ end }}
 <!-- Skill end -->
 
-<!-- Cta Start -->
+<!-- CTA Start -->
 {{ if .Site.Data.about.cta.enable }}
 {{ with .Site.Data.about.cta }}
 <section class="section-sm pt-0 cta">
@@ -113,6 +143,6 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- Cta ENd -->
+<!-- CTA End -->
 
 {{ end }}

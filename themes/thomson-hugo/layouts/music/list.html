@@ -16,7 +16,7 @@
       <div class="col-10 text-center">
         <div class="btn-group btn-group-toggle " data-toggle="buttons">
           <label class="btn active ">
-            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All Projects
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />Photos
           </label>
           {{ $categories := slice }}
           {{ range .Data.Pages }}
@@ -32,11 +32,11 @@
     </div>
 
     <div class="row shuffle-wrapper portfolio-gallery">
-      {{ range (where .Site.RegularPages "Type" "portfolio")}}
+      {{ range (where .Site.RegularPages "Type" "music-photos")}}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
         <div class="position-relative inner-box">
           <div class="image position-relative">
-            <img src="{{ .Params.Image | absURL }}" alt="portfolio-image" class="img-fluid w-100 d-block border">
+            <img src="{{ .Params.Image | absURL }}" alt="portfolio-image" class="img-fluid w-100 d-block">
             <div class="overlay-box">
               <a class="portfolio-image popup-gallery" href="{{ .Params.Image | absURL }}">
                 <i class="ti-plus"></i>

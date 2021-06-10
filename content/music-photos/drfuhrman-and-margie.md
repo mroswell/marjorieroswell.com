@@ -1,12 +1,12 @@
 ---
 title: "Business"
-image: "images/portfolio/3.jpg"
+image: "images/music/drfuhrman-margie.jpg"
 client: "Thomson"
 year: "2019"
-description: "This is meta description."
+description: "Music | Marjorie Roswell with Dr. Fuhrman"
 category: "marketing"
 project_url: "https://examplesite.org"
-type: "portfolio"
+type: "music-photos"
 draft: false
 ---
 

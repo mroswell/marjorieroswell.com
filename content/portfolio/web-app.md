@@ -1,15 +1,13 @@
 ---
-title: "Web app"
-image: "images/portfolio/1.jpg"
-client: "Thomson"
+title: "Healthy Campaign Curriculum"
+image: "images/project/healthy-campaign-curriculum.png"
+client: "Self"
 year: "2019"
-description: "This is meta description."
-category: "development"
-project_url: "https://examplesite.org"
+description: "Healthy Campaign Curriculum (PDF)"
+category: "Nutrition Education"
+project_url: "https://healthycampaign.org/toolkit/"
 type: "portfolio"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia. Commodi suscipit obcaecati et, aperiam quas vero quo, labore tempore.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam debitis beatae doloremque cupiditate vel repellat nam est voluptates, magnam quod explicabo fugit, quidem.
+Twenty pages of succinct guidance on healthy eating even when you are super-busy striving to save the world! 
