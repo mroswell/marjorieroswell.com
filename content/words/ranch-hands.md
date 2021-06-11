@@ -1,10 +1,10 @@
 ---
 title: "Ranch Hands"
 date: 2010-06-19T12:14:34+06:00
-image: "images/blog/minimal-2.jpg"
+image: "images/blog/barn.png"
 description: "Poem | Ranch Hands"
-categories: ["Design"]
-tags: ["Design","Creative"]
+categories: ["Light Verse"]
+tags: ["Ranch","Farm"]
 type : "post"
 ---
 {{< poem >}}

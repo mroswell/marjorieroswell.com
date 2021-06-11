@@ -7,5 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Jun 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://demo.themefisher.com/thomson-hugo/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agency web</title>
+      <link>http://demo.themefisher.com/thomson-hugo/music/agency-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/music/agency-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://demo.themefisher.com/thomson-hugo/music/drfuhrman-and-margie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/music/drfuhrman-and-margie/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
+    </item>
+    
+    <item>
+      <title>Folk Society</title>
+      <link>http://demo.themefisher.com/thomson-hugo/music/bfms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/music/bfms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>http://demo.themefisher.com/thomson-hugo/music/margie-guitar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/music/margie-guitar/</guid>
+      <description>Leaving the stage of the National Health Association.</description>
+    </item>
+    
+    <item>
+      <title>Songwriting Camp</title>
+      <link>http://demo.themefisher.com/thomson-hugo/music/songwriting-camp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/music/songwriting-camp/</guid>
+      <description>A lovely week with John McCutcheon at his Songwriting Camp at the Highlander center.</description>
+    </item>
+    
+    <item>
+      <title>Ukulele</title>
+      <link>http://demo.themefisher.com/thomson-hugo/music/ukulele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/music/ukulele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web app</title>
+      <link>http://demo.themefisher.com/thomson-hugo/music/web-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/music/web-app/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
+    </item>
+    
   </channel>
 </rss>

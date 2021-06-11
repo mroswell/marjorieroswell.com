@@ -58,7 +58,7 @@ weight = 3
 [[menu.main]]
 parent = "Words"
 name = "Light Verse"
-url = "blog"
+url = "words"
 weight = 1
 
 [[menu.main]]
@@ -66,6 +66,12 @@ parent = "Words"
 name = "Good Nutrition is Antiviral"
 url = "https://medium.com/@mroswell/a-science-based-message-for-the-people-good-nutrition-is-antiviral-14a4528c7216"
 weight = 2
+
+#[[menu.main]]
+#parent = "Words"
+#name = "Column Articles"
+#url = "column-articles"
+#weight = 3
 
 [[menu.main]]
 name = "Music"

@@ -2,7 +2,7 @@
 title: "Upon Consideration of the Material in Chapter 4"
 date: 2010-12-04T12:14:34+06:00
 
-image: "images/blog/minimal-1.jpg"
+image: "images/blog/sucrose.jpg"
 description: "Poem | Upon Consideration of the Material in Chapter 4"
 categories: ["Light Verse"]
 tags: ["Nutrition"]
