@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Marjorie Roswell</title>
+    <link>http://demo.themefisher.com/thomson-hugo/projects/</link>
+    <description>Recent content in Projects on Marjorie Roswell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="http://demo.themefisher.com/thomson-hugo/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ConservationPA Scorecard Map</title>
+      <link>http://demo.themefisher.com/thomson-hugo/projects/conservationpa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/projects/conservationpa/</guid>
+      <description>The Pennsylvania Environmental Scorecard rates each member of the State Senate and House on their environmental voting record using the most crucial environmental votes that the Pennsylvania General Assembly took during the current legislative session.</description>
+    </item>
+    
+    <item>
+      <title>Healthy Campaign Curriculum</title>
+      <link>http://demo.themefisher.com/thomson-hugo/projects/web-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/projects/web-app/</guid>
+      <description>Twenty pages of succinct guidance on healthy eating even when you are super-busy striving to save the world!</description>
+    </item>
+    
+    <item>
+      <title>Modern web</title>
+      <link>http://demo.themefisher.com/thomson-hugo/projects/healthycampaign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/projects/healthycampaign/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia.</description>
+    </item>
+    
+    <item>
+      <title>New Jersey League of Conservation Voters Scorecard</title>
+      <link>http://demo.themefisher.com/thomson-hugo/projects/njlcv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/projects/njlcv/</guid>
+      <description>New Jersey LCV’s Environmental Scorecard rates each member of the New Jersey Senate and Assembly on their conservation record and actions taken to protect the environment in the Garden State.</description>
+    </item>
+    
+    <item>
+      <title>SugarWars.org</title>
+      <link>http://demo.themefisher.com/thomson-hugo/projects/sugarwars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demo.themefisher.com/thomson-hugo/projects/sugarwars/</guid>
+      <description>It is a period of refined sugar. Rebel agents share conclusions drawn from research, with hopes of saving the people, and restoring health freedom to the galaxy.</description>
+    </item>
+    
+  </channel>
+</rss>

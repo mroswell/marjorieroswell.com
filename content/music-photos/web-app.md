@@ -6,7 +6,7 @@ year: "2019"
 description: "This is meta description."
 category: "development"
 project_url: "https://examplesite.org"
-type: "project"
+type: "music-photos"
 draft: false
 ---
 

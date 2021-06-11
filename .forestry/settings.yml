@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path:
+webhook_url:
 sections:
 - type: document
   path: data/homepage.yml
@@ -26,8 +26,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/portfolio
-  label: Portfolio
+  path: content/projects
+  label: Projects
   create: all
   match: "**/*"
 - type: directory

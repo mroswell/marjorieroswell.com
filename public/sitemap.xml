@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://demo.themefisher.com/thomson-hugo/about/</loc>
-    <lastmod>2021-06-09T00:17:34+06:00</lastmod>
-  </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/</loc>
+    <lastmod>2021-06-10T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/music/</loc>
+    <lastmod>2021-06-10T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/about/</loc>
     <lastmod>2021-06-09T00:17:34+06:00</lastmod>
   </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/blog/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/words/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://demo.themefisher.com/thomson-hugo/project/</loc>
+    <loc>http://demo.themefisher.com/thomson-hugo/music-photos/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/projects/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/categories/</loc>
@@ -35,6 +44,9 @@
     <loc>http://demo.themefisher.com/thomson-hugo/blog/the-maven/</loc>
     <lastmod>2011-03-11T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/words/the-maven/</loc>
+    <lastmod>2011-03-11T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/categories/light-verse/</loc>
     <lastmod>2010-12-04T12:14:34+06:00</lastmod>
   </url><url>
@@ -44,13 +56,22 @@
     <loc>http://demo.themefisher.com/thomson-hugo/blog/upon-consideration-of-the-material-in-chapter-4/</loc>
     <lastmod>2010-12-04T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/words/upon-consideration-of-the-material-in-chapter-4/</loc>
+    <lastmod>2010-12-04T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/blog/ranch-hands/</loc>
+    <lastmod>2010-06-19T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/words/ranch-hands/</loc>
     <lastmod>2010-06-19T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/tags/ode/</loc>
     <lastmod>2010-03-20T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/blog/ode-to-marc-sobel/</loc>
+    <lastmod>2010-03-20T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/words/ode-to-marc-sobel/</loc>
     <lastmod>2010-03-20T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/categories/seo/</loc>
@@ -62,7 +83,13 @@
     <loc>http://demo.themefisher.com/thomson-hugo/blog/water-fasting-or-not-so-fast/</loc>
     <lastmod>2009-07-23T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/words/water-fasting-or-not-so-fast/</loc>
+    <lastmod>2009-07-23T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/blog/convenience-isnt-everything/</loc>
+    <lastmod>2009-06-09T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/words/convenience-isnt-everything/</loc>
     <lastmod>2009-06-09T12:14:34+06:00</lastmod>
   </url><url>
     <loc>http://demo.themefisher.com/thomson-hugo/categories/development/</loc>
@@ -80,16 +107,31 @@
     <loc>http://demo.themefisher.com/thomson-hugo/blog/dental-appointment/</loc>
     <lastmod>1998-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://demo.themefisher.com/thomson-hugo/project/agency-web/</loc>
+    <loc>http://demo.themefisher.com/thomson-hugo/words/dental-appointment/</loc>
+    <lastmod>1998-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://demo.themefisher.com/thomson-hugo/project/business/</loc>
+    <loc>http://demo.themefisher.com/thomson-hugo/music-photos/agency-web/</loc>
   </url><url>
-    <loc>http://demo.themefisher.com/thomson-hugo/project/modern-web/</loc>
+    <loc>http://demo.themefisher.com/thomson-hugo/music-photos/drfuhrman-and-margie/</loc>
   </url><url>
-    <loc>http://demo.themefisher.com/thomson-hugo/project/painting/</loc>
+    <loc>http://demo.themefisher.com/thomson-hugo/projects/conservationpa/</loc>
   </url><url>
-    <loc>http://demo.themefisher.com/thomson-hugo/project/project/</loc>
+    <loc>http://demo.themefisher.com/thomson-hugo/music-photos/bfms/</loc>
   </url><url>
-    <loc>http://demo.themefisher.com/thomson-hugo/project/web-app/</loc>
+    <loc>http://demo.themefisher.com/thomson-hugo/projects/web-app/</loc>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/projects/healthycampaign/</loc>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/projects/njlcv/</loc>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/music-photos/margie-guitar/</loc>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/music-photos/songwriting-camp/</loc>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/projects/sugarwars/</loc>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/music-photos/ukulele/</loc>
+  </url><url>
+    <loc>http://demo.themefisher.com/thomson-hugo/music-photos/web-app/</loc>
   </url>
 </urlset>

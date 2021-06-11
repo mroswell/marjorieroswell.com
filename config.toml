@@ -74,7 +74,7 @@ weight = 4
 
 [[menu.main]]
 name = "Projects"
-url = "project"
+url = "projects"
 weight = 5
 
 # default parameters
@@ -102,7 +102,7 @@ preloader = "" # use png, jpg, svg or gif format
 
 # google map
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
