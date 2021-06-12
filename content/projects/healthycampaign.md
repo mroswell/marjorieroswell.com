@@ -1,7 +1,7 @@
 ---
 title: "Healthy Campaign"
 image: "images/projects/healthy-campaign.png"
-client: "Thomson"
+client: "Healthy Campaign"
 year: "2019"
 description: "Healthy Campaign"
 category: "Nutrition Education"

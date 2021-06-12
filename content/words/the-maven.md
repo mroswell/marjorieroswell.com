@@ -3,8 +3,8 @@ title: "The Maven"
 date: 2011-03-11T12:14:34+06:00
 image: "images/blog/biosolids.png"
 description: "Poem | The Maven"
-categories: ["Design"]
-tags: ["Design","Creative"]
+categories: ["Light Verse"]
+tags: ["Biosolids"]
 type : "post"
 ---
 {{< poem >}}

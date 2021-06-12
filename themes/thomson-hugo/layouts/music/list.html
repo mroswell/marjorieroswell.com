@@ -11,25 +11,8 @@
 </section>
 
 <section class="project">
-  <div class="container">
-    <div class="row mb-5 justify-content-center">
-      <div class="col-10 text-center">
-        <div class="btn-group btn-group-toggle " data-toggle="buttons">
-          <label class="btn active ">
-            <input type="radio" name="shuffle-filter" value="all" checked="checked" />Photos
-          </label>
-          {{ $categories := slice }}
-          {{ range .Data.Pages }}
-          {{ $categories = $categories | append .Params.Category }}
-          {{ end }}
-          {{ range ( $categories | uniq ) }}
-          <label class="btn">
-            <input type="radio" name="shuffle-filter" value="{{ . | urlize }}"/>{{ . | humanize }}
-          </label>
-          {{ end }}
-        </div>
-      </div>
-    </div>
+  <div class="container mt-4">
+
 
     <div class="row shuffle-wrapper project-gallery">
       {{ range (where .Site.RegularPages "Type" "music")}}

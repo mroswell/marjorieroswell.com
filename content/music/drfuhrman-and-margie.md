@@ -5,7 +5,7 @@ client: "Thomson"
 year: "2019"
 description: "Music | Marjorie Roswell with Dr. Fuhrman"
 category: "marketing"
-project_url: "https://examplesite.org"
+project_url: "#"
 type: "music"
 draft: false
 ---

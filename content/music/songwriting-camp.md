@@ -5,7 +5,7 @@ client: "Thomson"
 year: "2019"
 description: "This is meta description."
 category: "development"
-project_url: "https://examplesite.org"
+project_url: "#"
 type: "music"
 draft: false
 ---

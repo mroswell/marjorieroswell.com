@@ -1,56 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Design on Marjorie Roswell</title>
-    <link>http://demo.themefisher.com/thomson-hugo/tags/design/</link>
-    <description>Recent content in Design on Marjorie Roswell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Mar 2011 12:14:34 +0600</lastBuildDate><atom:link href="http://demo.themefisher.com/thomson-hugo/tags/design/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Maven</title>
-      <link>http://demo.themefisher.com/thomson-hugo/column-articles/the-maven/</link>
-      <pubDate>Fri, 11 Mar 2011 12:14:34 +0600</pubDate>
-      
-      <guid>http://demo.themefisher.com/thomson-hugo/column-articles/the-maven/</guid>
-      <description>To Rafael, whose birthday gathering was held in Baltimore at Poe&#39;s Grave, and to Jill, inspiring a topic rhyming with &#34;</description>
-    </item>
-    
-    <item>
-      <title>The Maven</title>
-      <link>http://demo.themefisher.com/thomson-hugo/words/the-maven/</link>
-      <pubDate>Fri, 11 Mar 2011 12:14:34 +0600</pubDate>
-      
-      <guid>http://demo.themefisher.com/thomson-hugo/words/the-maven/</guid>
-      <description>To Rafael, whose birthday gathering was held in Baltimore at Poe&#39;s Grave, and to Jill, inspiring a topic rhyming with &#34;</description>
-    </item>
-    
-    <item>
-      <title>Ranch Hands</title>
-      <link>http://demo.themefisher.com/thomson-hugo/column-articles/ranch-hands/</link>
-      <pubDate>Sat, 19 Jun 2010 12:14:34 +0600</pubDate>
-      
-      <guid>http://demo.themefisher.com/thomson-hugo/column-articles/ranch-hands/</guid>
-      <description>Ranch handsBig plansClear streamsBig dreamsFarmlandSo grand!</description>
-    </item>
-    
-    <item>
-      <title>Water Fasting (or, Not So Fast)</title>
-      <link>http://demo.themefisher.com/thomson-hugo/column-articles/water-fasting-or-not-so-fast/</link>
-      <pubDate>Thu, 23 Jul 2009 12:14:34 +0600</pubDate>
-      
-      <guid>http://demo.themefisher.com/thomson-hugo/column-articles/water-fasting-or-not-so-fast/</guid>
-      <description>Her stomach has contractedHer malaise is long protractedAnd her words have been redactedThey&#39;re not fitting for young ears.</description>
-    </item>
-    
-    <item>
-      <title>Water Fasting (or, Not So Fast)</title>
-      <link>http://demo.themefisher.com/thomson-hugo/words/water-fasting-or-not-so-fast/</link>
-      <pubDate>Thu, 23 Jul 2009 12:14:34 +0600</pubDate>
-      
-      <guid>http://demo.themefisher.com/thomson-hugo/words/water-fasting-or-not-so-fast/</guid>
-      <description>Her stomach has contractedHer malaise is long protractedAnd her words have been redactedThey&#39;re not fitting for young ears.</description>
-    </item>
-    
-  </channel>
-</rss>

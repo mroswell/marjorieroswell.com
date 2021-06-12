@@ -1,7 +1,7 @@
 ---
 title: "SugarWars.org"
 image: "https://cloud.githubusercontent.com/assets/192568/24318126/b97e0dae-10d6-11e7-9107-df7fcc1d1939.png"
-client: "Self"
+client: "Personal Project"
 year: "2019"
 description: "Sugar Wars | 55 Health Impacts of Sugar"
 category: "Nutrition Education"
