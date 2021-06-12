@@ -3,21 +3,37 @@
 <!-- Banner Start -->
 {{ if .Site.Data.homepage.banner.enable }}
 {{ with .Site.Data.homepage.banner }}
-<section class="section banner">
+<section class="section banner" style="background-image:url('{{ site.Params.banner.bg_image | absURL }}')">
+<!--  <section class="banner-creative" style="background-image:url('{{ site.Params.banner.bg_image | absURL }}')">-->
+
   <div class="container">
-    <div class="row">
-      <div class="col-lg-10">
-        <h2 class="cd-headline clip is-full-width mb-4 ">
-          {{ .title | markdownify }} <br>
-          <span class="cd-words-wrapper text-color">
-            {{ range $index, $element:= .animated_text }}
-            <b {{ if eq $index 0 }} class="is-visible" {{ end }}>{{ . | markdownify }}</b>
-            {{ end }}
-          </span>
-        </h2>
-        <p>{{ .content | markdownify }}</p>
+
+
+    <div class="row align-items-center justify-content-between">
+      <div class="col-lg-8 mb-4 mb-lg-0 order-1 order-lg-0">
+        <h1 class="title">{{ site.Params.banner.title | markdownify }}</h1>
       </div>
+      {{ with site.Params.banner.image }}
+      <div class="col-lg-3 col-md-4 col-sm-6 order-0 order-lg-1 mb-5 mb-lg-0">
+        <img loading="lazy" class="rounded banner-image img-fluid" src="{{ . | absURL }}" alt="{{ site.Title }}">
+      </div>
+      {{ end }}
     </div>
+
+
+<!--    <div class="row">-->
+<!--      <div class="col-lg-10">-->
+<!--        <h2 class="cd-headline clip is-full-width mb-4 ">-->
+<!--          {{ .title | markdownify }} <br>-->
+<!--          <span class="cd-words-wrapper text-color">-->
+<!--            {{ range $index, $element:= .animated_text }}-->
+<!--            <b {{ if eq $index 0 }} class="is-visible" {{ end }}>{{ . | markdownify }}</b>-->
+<!--            {{ end }}-->
+<!--          </span>-->
+<!--        </h2>-->
+<!--        <p>{{ .content | markdownify }}</p>-->
+<!--      </div>-->
+<!--    </div>-->
   </div>
 </section>
 {{ end }}

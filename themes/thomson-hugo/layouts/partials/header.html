@@ -8,11 +8,6 @@
 
     <div class="collapse navbar-collapse" id="navbarsExample09">
       <ul class="navbar-nav ml-auto">
-<!--        <li class="nav-item">-->
-<!--          <a class="nav-link float-left" href="{{ .URL | absURL }}"><strong>Marjorie Roswell</strong></a>-->
-<!--        </li>-->
-
-
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
         <li class="nav-item dropdown">

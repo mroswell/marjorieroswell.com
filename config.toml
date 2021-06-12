@@ -7,6 +7,14 @@ title = "Marjorie Roswell"
 summaryLength = "10"
 paginate = 20
 
+
+# Banner
+[Languages.en.banner]
+bg_image = "images/banner-shape.png"
+title = "I'm a freelance developer, and&nbsp;I'm also passionate about nutrition education, music, nature, and climate resilience."
+image = "images/marjorieroswell.jpg"
+
+
 # css plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
