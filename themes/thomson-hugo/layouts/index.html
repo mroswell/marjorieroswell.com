@@ -1,45 +1,57 @@
 {{ define "main" }}
 
 <!-- Banner Start -->
-{{ if .Site.Data.homepage.banner.enable }}
-{{ with .Site.Data.homepage.banner }}
-<section class="section banner" style="background-image:url('{{ site.Params.banner.bg_image | absURL }}')">
+{{ if .Site.Data.homepage.bio.enable }}
+{{ with .Site.Data.homepage.bio }}
+<section class="section banner" style="background-image:url('{{ site.Params.bio.bg_image | absURL }}')">
 <!--  <section class="banner-creative" style="background-image:url('{{ site.Params.banner.bg_image | absURL }}')">-->
 
   <div class="container">
 
-
     <div class="row align-items-center justify-content-between">
       <div class="col-lg-8 mb-4 mb-lg-0 order-1 order-lg-0">
-        <h1 class="title">{{ site.Params.banner.title | markdownify }}</h1>
+        <h1 class="title">I'm a <span class="cd-words-wrapper text-color">freelance developer</span> and&nbsp;I'm also passionate about <span class="cd-words-wrapper text-color">nutrition education</span>, <span class="cd-words-wrapper text-color">music</span>, <span class="cd-words-wrapper text-color">nature</span>, and <span class="cd-words-wrapper text-color">climate resilience</span>.</h1>
       </div>
-      {{ with site.Params.banner.image }}
+      {{ with site.Params.bio.image }}
       <div class="col-lg-3 col-md-4 col-sm-6 order-0 order-lg-1 mb-5 mb-lg-0">
         <img loading="lazy" class="rounded banner-image img-fluid" src="{{ . | absURL }}" alt="{{ site.Title }}">
       </div>
       {{ end }}
     </div>
 
-
-<!--    <div class="row">-->
-<!--      <div class="col-lg-10">-->
-<!--        <h2 class="cd-headline clip is-full-width mb-4 ">-->
-<!--          {{ .title | markdownify }} <br>-->
-<!--          <span class="cd-words-wrapper text-color">-->
-<!--            {{ range $index, $element:= .animated_text }}-->
-<!--            <b {{ if eq $index 0 }} class="is-visible" {{ end }}>{{ . | markdownify }}</b>-->
-<!--            {{ end }}-->
-<!--          </span>-->
-<!--        </h2>-->
-<!--        <p>{{ .content | markdownify }}</p>-->
-<!--      </div>-->
-<!--    </div>-->
   </div>
 </section>
 {{ end }}
 {{ end }}
 <!-- Banner End -->
+<section class="project">
+  <div class="container mt-4">
 
+
+    <div class="row shuffle-wrapper project-gallery">
+      {{ range (where .Site.RegularPages "Type" "music")}}
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
+        <div class="position-relative inner-box">
+          <div class="image position-relative">
+            <img src="{{ .Params.Image | absURL }}" alt="project-image" class="img-fluid w-100 d-block">
+            <div class="overlay-box">
+              <a class="project-image popup-gallery" href="{{ .Params.Image | absURL }}">
+                <i class="ti-plus"></i>
+              </a>
+              <div class="overlay-inner">
+                <a class="overlay-content" href="{{ .Permalink }}">
+                  <h5 class="mb-0">{{ .Title }}</h5>
+                  <p>{{ .Params.Category | humanize }}</p>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
 <!-- project start -->
 {{ if .Site.Data.homepage.project.enable }}
 <section class="project">

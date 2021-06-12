@@ -9,7 +9,7 @@ paginate = 20
 
 
 # Banner
-[Languages.en.banner]
+[Languages.en.bio]
 bg_image = "images/banner-shape.png"
 title = "I'm a freelance developer, and&nbsp;I'm also passionate about nutrition education, music, nature, and climate resilience."
 image = "images/marjorieroswell.jpg"
@@ -24,8 +24,8 @@ link = "plugins/themify/css/themify-icons.css"
 link = "plugins/owl-carousel/owl.carousel.min.css"
 [[params.plugins.css]]
 link = "plugins/owl-carousel/owl.theme.default.min.css"
-[[params.plugins.css]]
-link = "plugins/animated-text/animated-text.css"
+#[[params.plugins.css]]
+#link = "plugins/animated-text/animated-text.css"
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 
@@ -39,8 +39,8 @@ link = "plugins/bootstrap/bootstrap.min.js"
 link = "plugins/owl-carousel/owl.carousel.min.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/animated-text/animated-text.js"
+#[[params.plugins.js]]
+#link = "plugins/animated-text/animated-text.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [[params.plugins.js]]
@@ -58,10 +58,18 @@ name = "About"
 url = "about"
 weight = 2
 
+
+
+[[menu.main]]
+name = "Projects"
+url = "projects"
+weight = 3
+
+
 [[menu.main]]
 name = "Words"
 url = "#"
-weight = 3
+weight = 4
 
 [[menu.main]]
 parent = "Words"
@@ -84,11 +92,6 @@ weight = 2
 [[menu.main]]
 name = "Music"
 url = "music"
-weight = 4
-
-[[menu.main]]
-name = "Projects"
-url = "projects"
 weight = 5
 
 # default parameters
