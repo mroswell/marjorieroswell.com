@@ -1,6 +1,7 @@
 # default configuration
 
-baseURL = "http://demo.themefisher.com/thomson-hugo/"
+#baseURL = "https://demo.themefisher.com/thomson-hugo/"
+baseURL = "https://keen-sinoussi-9a9079.netlify.app/thomson-hugo/"
 languageCode = "en-us"
 theme = "thomson-hugo"
 title = "Marjorie Roswell"
