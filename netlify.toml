@@ -6,5 +6,5 @@
 
 [build.environment]
 #  HUGO_VERSION = "0.60.1"
-  HUGO_VERSION = "v0.83.1+extended"
+  HUGO_VERSION = "v0.83.1"
   HUGO_THEME = "thomson-hugo"
