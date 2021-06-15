@@ -111,7 +111,7 @@ google_analitycs_id = ""
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 a theme by [themefisher](https://themefisher.com), adapted by Marjorie Roswell"
 
 # preloader
 [params.preloader]
@@ -132,9 +132,15 @@ icon = "ti-facebook"
 link = "https://www.facebook.com/marjorie.roswell"
 
 [[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/mroswell"
+
+[[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/marjorie_roswell/"
 
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/mroswell"
+icon = "ti-github"
+link = "https://www.github.com/mroswell/"
+
+
