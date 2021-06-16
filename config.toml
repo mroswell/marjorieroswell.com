@@ -1,6 +1,5 @@
 # default configuration
 
-#baseURL = "https://demo.themefisher.com/thomson-hugo/"
 baseURL = "https://marjorieroswell.com"
 languageCode = "en-us"
 theme = "thomson-hugo"
@@ -100,18 +99,18 @@ weight = 5
 home = "Home"
 logo = "images/logo.png"
 # contact info
-mobile = "+880 2544 658 256"
+mobile = ""
 email = "mroswell@gmail.com"
-address = "125/A, CA Commercial Area, California, USA"
+address = "Baltimore MD"
 # meta description
-author = "themefisher"
+author = "Marjorie Roswell"
 description = "Marjorie Roswell | Projects, Photos, Poems, and Songs"
 # google analitycs
-google_analitycs_id = ""
+google_analytics_id = ""
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher](https://themefisher.com), adapted by Marjorie Roswell"
+copyright = "&copy; 2021 Marjorie Roswell"
 
 # preloader
 [params.preloader]
@@ -142,5 +141,3 @@ link = "https://www.instagram.com/marjorie_roswell/"
 [[params.social]]
 icon = "ti-github"
 link = "https://www.github.com/mroswell/"
-
-
