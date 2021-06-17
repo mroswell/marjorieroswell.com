@@ -106,7 +106,7 @@ address = "Baltimore MD"
 author = "Marjorie Roswell"
 description = "Marjorie Roswell | Projects, Photos, Poems, and Songs"
 # google analitycs
-google_analytics_id = ""
+google_analytics_id = "199716792-1"#/*"G-12N3B6CB0D"*/
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
