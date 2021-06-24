@@ -3,7 +3,7 @@
 baseURL = "https://marjorieroswell.com"
 languageCode = "en-us"
 theme = "thomson-hugo"
-title = "Marjorie Roswell"
+title = "Marjorie Roswell | Projects, Photos, Poems, and Songs"
 summaryLength = "10"
 paginate = 20
 
@@ -94,6 +94,11 @@ name = "Music"
 url = "music"
 weight = 5
 
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 6
+
 # default parameters
 [params]
 home = "Home"
@@ -104,11 +109,11 @@ email = "mroswell@gmail.com"
 address = "Baltimore MD"
 # meta description
 author = "Marjorie Roswell"
-description = "Marjorie Roswell | Projects, Photos, Poems, and Songs"
+description = "Marjorie Roswell is a freelance developer and nutrition educator who is also passionate about music, nature, and climate resilience."
 # google analitycs
 google_analytics_id = "199716792-1"#/*"G-12N3B6CB0D"*/
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/xbjqkjyj" # contact form works with : https://formspree.io
 # copyright
 copyright = "&copy; 2021 Marjorie Roswell"
 
