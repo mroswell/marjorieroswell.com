@@ -147,8 +147,8 @@ link = "https://www.instagram.com/marjorie_roswell/"
 icon = "ti-github"
 link = "https://www.github.com/mroswell/"
 
-# disable categories
-[Taxonomies]
-tag = "tags"
-
-disableKinds = ["taxonomy"]
+## disable categories
+#[Taxonomies]
+#tag = "tags"
+#
+#disableKinds = ["taxonomy"]
