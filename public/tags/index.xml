@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Marjorie Roswell</title>
+    <title>Tags on Marjorie Roswell | Projects, Photos, Poems, and Songs</title>
     <link>https://marjorieroswell.com/tags/</link>
-    <description>Recent content in Tags on Marjorie Roswell</description>
+    <description>Recent content in Tags on Marjorie Roswell | Projects, Photos, Poems, and Songs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Mar 2011 12:14:34 +0600</lastBuildDate><atom:link href="https://marjorieroswell.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -13,6 +13,15 @@
       <pubDate>Fri, 11 Mar 2011 12:14:34 +0600</pubDate>
       
       <guid>https://marjorieroswell.com/tags/biosolids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Verse</title>
+      <link>https://marjorieroswell.com/tags/light-verse/</link>
+      <pubDate>Fri, 11 Mar 2011 12:14:34 +0600</pubDate>
+      
+      <guid>https://marjorieroswell.com/tags/light-verse/</guid>
       <description></description>
     </item>
     
@@ -53,20 +62,20 @@
     </item>
     
     <item>
-      <title>Watermelon</title>
-      <link>https://marjorieroswell.com/tags/watermelon/</link>
+      <title>Watermelon, Light Verse</title>
+      <link>https://marjorieroswell.com/tags/watermelon-light-verse/</link>
       <pubDate>Tue, 09 Jun 2009 12:14:34 +0600</pubDate>
       
-      <guid>https://marjorieroswell.com/tags/watermelon/</guid>
+      <guid>https://marjorieroswell.com/tags/watermelon-light-verse/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Daily Life</title>
-      <link>https://marjorieroswell.com/tags/daily-life/</link>
+      <title>Daily Life, Light Verse</title>
+      <link>https://marjorieroswell.com/tags/daily-life-light-verse/</link>
       <pubDate>Sun, 16 Aug 1998 00:00:00 +0000</pubDate>
       
-      <guid>https://marjorieroswell.com/tags/daily-life/</guid>
+      <guid>https://marjorieroswell.com/tags/daily-life-light-verse/</guid>
       <description></description>
     </item>
     

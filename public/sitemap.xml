@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://marjorieroswell.com/contact/</loc>
+    <lastmod>2021-06-24T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://marjorieroswell.com/</loc>
-    <lastmod>2021-06-10T12:14:34+06:00</lastmod>
+    <lastmod>2021-06-24T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://marjorieroswell.com/music/</loc>
     <lastmod>2021-06-10T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://marjorieroswell.com/about/</loc>
     <lastmod>2021-06-09T00:17:34+06:00</lastmod>
-  </url><url>
-    <loc>https://marjorieroswell.com/contact/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://marjorieroswell.com/column-articles/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
@@ -29,16 +29,16 @@
     <loc>https://marjorieroswell.com/tags/biosolids/</loc>
     <lastmod>2011-03-11T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://marjorieroswell.com/categories/</loc>
-    <lastmod>2011-03-11T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://marjorieroswell.com/categories/light-verse/</loc>
+    <loc>https://marjorieroswell.com/tags/light-verse/</loc>
     <lastmod>2011-03-11T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://marjorieroswell.com/tags/</loc>
     <lastmod>2011-03-11T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://marjorieroswell.com/words/the-maven/</loc>
+    <lastmod>2011-03-11T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://marjorieroswell.com/words/</loc>
     <lastmod>2011-03-11T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://marjorieroswell.com/tags/nutrition/</loc>
@@ -68,14 +68,16 @@
     <loc>https://marjorieroswell.com/tags/food/</loc>
     <lastmod>2009-06-09T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://marjorieroswell.com/tags/watermelon/</loc>
+    <loc>https://marjorieroswell.com/tags/watermelon-light-verse/</loc>
     <lastmod>2009-06-09T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://marjorieroswell.com/tags/daily-life/</loc>
+    <loc>https://marjorieroswell.com/tags/daily-life-light-verse/</loc>
     <lastmod>1998-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marjorieroswell.com/words/dental-appointment/</loc>
     <lastmod>1998-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marjorieroswell.com/index.html</loc>
   </url><url>
     <loc>https://marjorieroswell.com/music/boardwalk/</loc>
   </url><url>
@@ -97,9 +99,13 @@
   </url><url>
     <loc>https://marjorieroswell.com/music/marsh/</loc>
   </url><url>
+    <loc>https://marjorieroswell.com/music/</loc>
+  </url><url>
     <loc>https://marjorieroswell.com/music/margie-and-mom/</loc>
   </url><url>
     <loc>https://marjorieroswell.com/projects/njlcv/</loc>
+  </url><url>
+    <loc>https://marjorieroswell.com/projects/</loc>
   </url><url>
     <loc>https://marjorieroswell.com/music/songwriting-camp/</loc>
   </url><url>

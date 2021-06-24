@@ -3,8 +3,7 @@ title: "Convenience Isn't Everything"
 date: 2009-06-09T12:14:34+06:00
 image: "images/blog/watermelon.jpg"
 description: "Poem | Convenience Isn't Everything"
-categories: ["Light Verse"]
-tags: ["Food","Watermelon"]
+tags: ["Food","Watermelon, Light Verse"]
 type : "post"
 ---
 {{< poem >}}

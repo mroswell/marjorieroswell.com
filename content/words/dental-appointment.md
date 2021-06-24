@@ -3,8 +3,7 @@ title: "On Facing 'Part Two' of a Three-Part Dental Appointment"
 date: 1998-08-16
 image: "images/blog/tooth.png"
 description: "Poem | On Facing 'Part Two' of a Three-Part Dental Appointment"
-categories: ["Light Verse"]
-tags: ["Daily Life"]
+tags: ["Daily Life, Light Verse"]
 type : "post"
 ---
 

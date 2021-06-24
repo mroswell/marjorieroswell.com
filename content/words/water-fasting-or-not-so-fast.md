@@ -3,8 +3,7 @@ title: "Water Fasting (or, Not So Fast)"
 date: 2009-07-23T12:14:34+06:00
 image: "images/blog/drinking-water.jpg"
 description: "This is meta description."
-categories: ["Light Verse"]
-tags: ["Nutrition"]
+tags: ["Nutrition", "Light Verse"]
 type : "post"
 ---
 {{< poem >}}

@@ -3,8 +3,7 @@ title: "Ode to Marc Sobel"
 date: 2010-03-20T12:14:34+06:00
 image: "images/blog/coffee-party.png"
 description: "Poem | Ode to Marc Sobel"
-categories: ["Light Verse"]
-tags: ["Ode"]
+tags: ["Ode", "Light Verse"]
 type : "post"
 ---
 {{< poem >}}

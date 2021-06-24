@@ -1,66 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Marjorie Roswell</title>
+    <title>Projects on Marjorie Roswell | Projects, Photos, Poems, and Songs</title>
     <link>https://marjorieroswell.com/projects/</link>
-    <description>Recent content in Projects on Marjorie Roswell</description>
+    <description>Recent content in Projects on Marjorie Roswell | Projects, Photos, Poems, and Songs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://marjorieroswell.com/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ConservationPA Scorecard Map</title>
-      <link>https://marjorieroswell.com/projects/conservationpa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marjorieroswell.com/projects/conservationpa/</guid>
-      <description>The Pennsylvania Environmental Scorecard rates each member of the State Senate and House on their environmental voting record using the most crucial environmental votes that the Pennsylvania General Assembly took during the current legislative session.</description>
-    </item>
-    
-    <item>
-      <title>Healthy Campaign</title>
-      <link>https://marjorieroswell.com/projects/healthycampaign/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marjorieroswell.com/projects/healthycampaign/</guid>
-      <description>Healthy Campaign was founded by Marjorie Roswell, a nutrition educator and progressive activist.</description>
-    </item>
-    
-    <item>
-      <title>Healthy Campaign Course</title>
-      <link>https://marjorieroswell.com/projects/healthy-campaign-curriculum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marjorieroswell.com/projects/healthy-campaign-curriculum/</guid>
-      <description>Take the Healthy Campaign Course!
-Participants in this training will have permanent access to:</description>
-    </item>
-    
-    <item>
-      <title>Healthy Campaign Toolkit</title>
-      <link>https://marjorieroswell.com/projects/healthy-campaign-toolkit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marjorieroswell.com/projects/healthy-campaign-toolkit/</guid>
-      <description>Twenty pages of succinct guidance on healthy eating even when you are super-busy striving to save the world!</description>
-    </item>
-    
-    <item>
-      <title>New Jersey League of Conservation Voters Scorecard</title>
-      <link>https://marjorieroswell.com/projects/njlcv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marjorieroswell.com/projects/njlcv/</guid>
-      <description>New Jersey LCV’s Environmental Scorecard rates each member of the New Jersey Senate and Assembly on their conservation record and actions taken to protect the environment in the Garden State.</description>
-    </item>
-    
-    <item>
-      <title>SugarWars.org</title>
-      <link>https://marjorieroswell.com/projects/sugarwars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marjorieroswell.com/projects/sugarwars/</guid>
-      <description>It is a period of refined sugar. Rebel agents share conclusions drawn from research, with hopes of saving the people, and restoring health freedom to the galaxy.</description>
-    </item>
-    
   </channel>
 </rss>

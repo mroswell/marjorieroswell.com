@@ -4,7 +4,7 @@ date: 2010-06-19T12:14:34+06:00
 image: "images/blog/barn.png"
 description: "Poem | Ranch Hands"
 categories: ["Light Verse"]
-tags: ["Farm"]
+tags: ["Farm", "Light Verse"]
 type : "post"
 ---
 {{< poem >}}
