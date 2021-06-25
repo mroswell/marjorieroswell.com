@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{/*{{ partial "page-header.html" . }}*/}}
+{{ "<!-- faq -->" | safeHTML }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {{ $content := .Content }}
+      {{ $content = replaceRE `<a href="(https://yiddishwordoftheweek.tumblr.com/post/315848528/naches-%D7%A0%D7%97%D7%AA)">` `<a href="$1" target="_blank">` $content | safeHTML }}
+      {{ $content = replaceRE `<a href="(https://www.merriam-webster.com/dictionary/tuchus)">` `<a href="$1" target="_blank">` $content | safeHTML }}
+      {{ $content = replaceRE `<a href="(https://www.lexico.com/en/definition/shul)">` `<a href="$1" target="_blank">` $content | safeHTML }}
+      {{ $content = replaceRE `<a href="(https?://.+)">` `<a href="$1" target="_blank">` $content | safeHTML }}
+
+      {{ $content | safeHTML }}
+    </div>
+  </div>
+</section>
+{{ "<!-- /faq -->" | safeHTML }}
+
+
+<!-- call to action -->
+
+<!-- /call to action -->
+
+{{ end }}

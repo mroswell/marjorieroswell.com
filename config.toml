@@ -95,8 +95,8 @@ url = "music"
 weight = 5
 
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "FAQ"
+url = "faq"
 weight = 6
 
 # default parameters
