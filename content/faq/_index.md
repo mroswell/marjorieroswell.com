@@ -22,7 +22,7 @@ I play the guitar, and I plunk on a ukulele or a piano. In a pinch, I can be fou
 No. But when I listen to a piano, I often know what notes are being played. When I listen to a guitar, I often know what chords are being played.
 {{</ faq >}}
 
-{{< faq "Freelance developer: that could mean many things. What specifically do you work on?" >}}
+{{< faq "Hmm... Freelance developer. What specifically do you do?" >}}
 I’m a web developer who has always been especially interested in data visualization. I love making interactive maps, and I’ve built a number of “scorecard maps” for advocacy organizations.
 {{</ faq >}}
 

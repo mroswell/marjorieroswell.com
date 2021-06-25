@@ -1,0 +1,50 @@
+{{ $url := urls.Parse .Permalink }}
+{{ if eq $url.Path  "/faq/"}}
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                "@type": "Question",
+                "name": "What brought you to music?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Music is a part of my family heritage. My mother was a music major. My aunt on my father’s side studied at Julliard. They are gone, but the music they passed down remains. My family has at least a century-old tradition of writing songs for family occasions. When I have more time I’ll add some more of the family songs to the collection!"
+                }
+            }, {
+                "@type": "Question",
+                "name": "Do you have a particular favorite of the family occasion songs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "I think my favorite line was one that my mother wrote half a century ago, to the tune of Get Me to the Church on Time. “For such a nachas, Just move your tuchas, and get Barbara to the shul on time. We know that Michael will be just great. But as for Barbara, Gei gezunterheit"
+                }
+            }, {
+                "@type": "Question",
+                "name": "Do you play an instrument?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "I play the guitar, and I plunk on a ukulele or a piano. In a pinch, I can be found playing plastic spoons to accompany a jam session."
+                }
+            }, {
+                "@type": "Question",
+                "name": "Do you have perfect pitch?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. But when I listen to a piano, I often know what notes are being played. When I listen to a guitar, I often know what chords are being played."
+                }
+            }, {
+                "@type": "Question",
+                "name": "Hmm... Freelance developer. What specifically do you do?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text":"I’m a web developer who has always been especially interested in data visualization. I love making interactive maps, and I’ve built a number of “scorecard maps” for advocacy organizations."}
+            }, {
+        "@type": "Question",
+        "name": "What are you working on now?",
+        "acceptedAnswer": {
+        "@type": "Answer",
+        "text":"I’m currently working on building a website called Safer Or Toxic, to help individuals, schools, hospitals and janitorial companies to sort out which disinfectants are safer for human health. I think it’ll be a cool site, and I'll be able to launch it in July. It’s a project of the Maryland Pesticide Education Network."}
+            }]
+        }
+    </script>
+{{ end }}
