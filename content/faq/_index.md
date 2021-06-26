@@ -5,7 +5,6 @@ description: "Frequently Asked Questions"
 ---
 ## Frequently Asked Questions {#id .className style="margin:auto " class="mb-5"}
 
-
 {{< faq "What brought you to music?" >}}
 Music is a part of my family heritage. My mother was a music major. My aunt on my father’s side studied at Julliard. They are gone, but the music they passed down remains. My family has at least a century-old tradition of writing songs for family occasions. When I have more time I’ll add some more of the family songs to the collection!
 {{</ faq >}}

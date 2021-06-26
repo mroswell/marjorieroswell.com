@@ -3,7 +3,8 @@
 	<div class="container">
 		<div class="row ">
 			<div class="col-lg-6">
-				<p class="mb-0">{{ .Site.Params.copyright | markdownify }}</p>
+				<p class="mb-0">{{ .Site.Params.copyright | markdownify }} • <a href="/terms-and-conditions">Terms</a> • <a href="/Privacy">Privacy Policy</a> • <a href="/contact">Contact Me</a>
+				</p>
 			</div>
 			<div class="col-lg-6">
 				<div class="widget footer-widget text-lg-right mt-5 mt-lg-0">
@@ -12,7 +13,7 @@
 						<li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank"><i style="vertical-align:bottom;" class="{{ .icon }} mr-3"></i></a>
 						</li>
 						{{ end }}
-						<li class="list-inline-item"><a href="/contact"><i style="vertical-align:bottom;" class="ti-email mr-1"><span style="vertical-align:bottom; font:16px lato,sans-serif"> Contact</span></i></a></li>
+{{/*						<li class="list-inline-item"><a href="/contact"><i style="vertical-align:bottom;" class="ti-email mr-1"><span style="vertical-align:bottom; font:16px lato,sans-serif"> Contact</span></i></a></li>*/}}
 					</ul>
 				</div>
 			</div>

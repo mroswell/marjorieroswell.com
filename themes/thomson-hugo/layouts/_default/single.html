@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="text-center">
-          <h1 class="text-capitalize mb-0 text-lg">{{ .Title }}</h1>
+          <h1 class="mb-0 text-lg">{{ .Title }}</h1>
         </div>
       </div>
     </div>
@@ -24,6 +24,8 @@
           </div>
 
           <div class="single-post-content mt-4">
+            {{ with .Params.exclude }}
+            {{ else }}
             <div class="post-meta mb-4">
               <span class="text-black">Tags :</span>
 <!--              {{ range .Params.Tags }}-->
@@ -36,6 +38,7 @@
 <!--              <span class="ml-3">-</span>-->
               <br /><span class="date">{{ .PublishDate.Format "January 02, 2006" }}</span>
             </div>
+            {{ end }}
             <div class="content">{{ .Content }}</div>
             <div class="share mt-4">
               <ul class="list-inline">
@@ -57,7 +60,10 @@
         {{ end }}
       </div>
 
-      {{ partial "blog-sidebar.html" . }}
+      {{ with .Params.exclude }}
+      {{ else }}
+        {{ partial "blog-sidebar.html" . }}
+      {{ end }}
     </div>
   </div>
 </section>
