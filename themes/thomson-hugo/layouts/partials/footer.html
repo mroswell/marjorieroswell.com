@@ -3,12 +3,14 @@
 	<div class="container">
 		<div class="row ">
 			<div class="col-lg-6">
-				<p class="mb-0">{{ .Site.Params.copyright | markdownify }} • <a href="/terms-and-conditions">Terms</a> • <a href="/Privacy">Privacy Policy</a> • <a href="/contact">Contact Me</a>
+				<p class="mb-0">{{ .Site.Params.copyright | markdownify }} • <a href="/terms-and-conditions">Terms</a> • <a href="/Privacy">Privacy Policy</a>
 				</p>
 			</div>
+
 			<div class="col-lg-6">
 				<div class="widget footer-widget text-lg-right mt-5 mt-lg-0">
 					<ul class="list-inline mb-0">
+						<li class="list-inline-item"><a href="/contact"><i style="vertical-align:bottom;" class="ti-email mr-2"><span style="vertical-align:bottom; font:16px lato,sans-serif"> Contact Me</span></i></a></li>
 						{{range .Site.Params.social }}
 						<li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank"><i style="vertical-align:bottom;" class="{{ .icon }} mr-3"></i></a>
 						</li>
