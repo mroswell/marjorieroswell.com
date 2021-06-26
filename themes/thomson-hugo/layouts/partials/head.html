@@ -6,7 +6,13 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
-
+  <meta property="og:title" content="Marjorie Roswell">
+  <meta property="og:site_name" content="Marjorie Roswell">
+{{/*  <meta property="og:url" content="http://www.MarjorieRoswell.com">*/}}
+  <meta property="og:url" content="{{ .RelPermalink }}">
+  <meta property="og:description" content="Marjorie Roswell is a freelance developer and nutrition educator. She is passionate about music, nature, and climate resilience.">
+  <meta property="og:type" content="Website">
+  <meta property="og:image" content="images/marjorie-roswell.png">
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }} ">
