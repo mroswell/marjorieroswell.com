@@ -38,7 +38,7 @@ By continuing to use our Website, you acknowledge that you have had the chance t
 
 The Party responsible for the processing of your personal data is as follows: Marjorie Roswell. The Data Controller may be contacted as follows:
 
-contact@marjorieroswell.com
+  [http://www.marjorieroswell.com/contact](http://www.marjorieroswell.com/contact)
 
 The Data Controller and operator of the Website are one and the same.
 
@@ -127,7 +127,7 @@ We will not knowingly share your Personal Data with any third parties other than
 
 If your Personal Data might be provided to a third party in a manner that is other than as explained in this Privacy Policy, you will be notified. You will also have the opportunity to request that we not share that information.
 
-In general, you may request that we do not share your Personal Data with third parties. Please contact us via email, if so. Please be advised that you may lose access to certain services that we rely on third-party providers for.
+In general, you may request that we do not share your Personal Data with third parties. Please contact us via our contact form, if so. Please be advised that you may lose access to certain services that we rely on third-party providers for.
 
 **Article 9 - SOCIAL NETWORK PLUGINS:**
 
