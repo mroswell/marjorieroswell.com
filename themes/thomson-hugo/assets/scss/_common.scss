@@ -199,3 +199,43 @@ a{
     background: #f1f1f1;
   }
 }
+
+.slick-slide {
+	outline: 0;
+}
+
+// instagram post
+.instafeed-full {
+	.slick-list {
+		overflow: visible;
+	}
+}
+
+.instagram-post {
+	position: relative;
+	margin: 0 10px;
+	display: block;
+
+	img {
+		height: 185px;
+		width: 185px;
+		object-fit: cover;
+	}
+
+	&::before {
+		position: absolute;
+		content: "";
+		left: 0;
+		top: 0;
+		height: 100%;
+		width: 100%;
+		background: rgba(0, 0, 0, 0.5);
+		opacity: 0;
+		visibility: hidden;
+		transition: .2s ease;
+	}
+	&:hover::before{
+		opacity: 1;
+		visibility: visible;
+	}
+}

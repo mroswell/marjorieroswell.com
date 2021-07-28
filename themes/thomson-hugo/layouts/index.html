@@ -25,8 +25,6 @@
 <!-- Banner End -->
 <section class="project">
   <div class="container mt-4">
-
-
     <div class="row shuffle-wrapper project-gallery">
       {{ range (where .Site.RegularPages "Type" "music")}}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
@@ -98,6 +96,8 @@
     </div>
   </div>
 </section>
+
+
 {{ end }}
 <!-- project End -->
 

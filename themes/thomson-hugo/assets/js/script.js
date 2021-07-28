@@ -1,4 +1,4 @@
-// Preloader js    
+// Preloader js
 $(window).on('load', function () {
   $('.preloader').fadeOut(100);
 });
@@ -40,5 +40,47 @@ $(window).on('load', function () {
       }
     });
   });
+
+  // instafeed
+  if (($('#instafeed').length) !== 0) {
+    var accessToken = $('#instafeed').attr('data-accessToken');
+    var userFeed = new Instafeed({
+      get: 'user',
+      resolution: 'low_resolution',
+      accessToken: accessToken,
+      template: '<a href="{{link}}" target="_blank" class="instagram-post"><img class="img-fluid w-100" src="{{image}}"></a>'
+    });
+    userFeed.run();
+  }
+
+  setTimeout(function () {
+    $('.instagram-slider').slick({
+      dots: false,
+      speed: 300,
+      autoplay: true,
+      arrows: false,
+      slidesToShow: 5,
+      slidesToScroll: 1,
+      responsive: [{
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 4
+        }
+      },
+        {
+          breakpoint: 600,
+          settings: {
+            slidesToShow: 3
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 2
+          }
+        }
+      ]
+    });
+  }, 1500);
 
 })(jQuery);

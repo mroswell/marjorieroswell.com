@@ -1,6 +1,10 @@
 <!-- Footer start -->
+{{ $url := urls.Parse .Permalink }}
 <section class="footer">
 	<div class="container">
+		{{ if or (eq $url.Path  "/faq/") (eq $url.Path  "/") (eq $url.Path  "/about/")  (eq $url.Path  "/words/")  }}
+		{{ partial "instafeed" . }}
+		{{ end }}
 		<div class="row ">
 			<div class="col-lg-6">
 				<p class="mb-0">{{ .Site.Params.copyright | markdownify }} • <a href="/terms-and-conditions">Terms</a> • <a href="/privacy">Privacy Policy</a>
@@ -24,8 +28,8 @@
 </section>
 <!-- Footer End -->
 
-{{"<!-- Google Map API -->" | safeHTML}}
 {{ if .Site.Params.gmap.enable }}
+{{"<!-- Google Map API -->" | safeHTML}}
 <script type="text/javascript" src="{{ .Site.Params.gmap.gmap_api | absURL }}"></script>
 {{ end }}
 
