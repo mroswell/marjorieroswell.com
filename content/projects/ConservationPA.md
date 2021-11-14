@@ -4,7 +4,7 @@ image: "images/projects/ConservationPA-scorecard-map.png"
 client: "Conservation Voters of Pennsylvania"
 year: "2020"
 description: "ConservationPA Legislative Scorecard Map"
-category: "Scorecard Map"
+category: "Nonprofit"
 project_url: "https://scorecard.conservationpa.org"
 type: "projects"
 draft: false

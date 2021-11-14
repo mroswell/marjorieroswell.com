@@ -4,7 +4,7 @@ image: "images/projects/NJLCV_Social_Post.jpg"
 client: "New Jersey League of Conservation Voters"
 year: "2019"
 description: "New Jersey League of Conservation Voters Scorecard"
-category: "Scorecard Map"
+category: "Nonprofit"
 project_url: "http://scorecard.njlcv.org"
 type: "projects"
 draft: false
