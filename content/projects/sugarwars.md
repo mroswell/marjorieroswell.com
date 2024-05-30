@@ -5,7 +5,7 @@ client: "Personal Project"
 year: "2019"
 description: "Sugar Wars | 55 Health Impacts of Sugar"
 category: "Nutrition Education"
-project_url: "https://SugarWars.org"
+project_url: "https://SugarWars.com"
 type: "projects"
 draft: false
 ---
