@@ -1,5 +1,5 @@
 ---
-title: "SugarWars.org"
+title: "SugarWars.com"
 image: "https://cloud.githubusercontent.com/assets/192568/24318126/b97e0dae-10d6-11e7-9107-df7fcc1d1939.png"
 client: "Personal Project"
 year: "2019"
